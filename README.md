@@ -1,8 +1,8 @@
 # PolyGuess - Issues & Feedback
 
-This repository is for **bug reports, feature requests, and feedback** for [PolyGuess](https://polyguess.<subdom>), a daily prediction game.
+This repository is for **bug reports, feature requests, and feedback** for [PolyGuess](https://polyguess.ca), a daily prediction game.
 
-> **Note**: This is an issues-only repository. No code is hosted here. For the actual game, visit [polyguess.<subdom>](https://polyguess.<subdom>).
+> **Note**: This is an issues-only repository. No code is hosted here. For the actual game, visit [polyguess.ca](https://polyguess.ca).
 
 ## What is PolyGuess?
 
@@ -87,10 +87,10 @@ If you discover a security issue, please email me directly (contact info in my G
 
 ## Related Links
 
-- **Play the Game**: [polyguess.<subdom>](https://polyguess.<subdom>)
-- **Privacy Policy**: [polyguess.<subdom>/privacy](https://polyguess.<subdom>/privacy)
-- **Terms of Service**: [polyguess.<subdom>/terms](https://polyguess.<subdom>/terms)
-- **About**: [polyguess.<subdom>/about](https://polyguess.<subdom>/about)
+- **Play the Game**: [polyguess.ca](https://polyguess.ca)
+- **Privacy Policy**: [polyguess.ca/privacy](https://polyguess.ca/privacy)
+- **Terms of Service**: [polyguess.ca/terms](https://polyguess.ca/terms)
+- **About**: [polyguess.ca/about](https://polyguess.ca/about)
 
 ## Contributing
 
